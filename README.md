@@ -71,4 +71,18 @@ Oversampling was used in class:
     Cardiomegaly
     Covid-19 in the Pneumonia & Covid-19 Class 
     
+The Other respiratory disease class contains:
+
+    Atelectasis
+    Infiltration
+    Mass
+    Nodule
+    Pneumothorax
+    Consolidation
+    Edema
+    Emphysema
+    Fibrosis
+    Pleural Thickening
+    Hernia
+    
 The rescaling was done under the cubic interpolation method.
