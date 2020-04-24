@@ -1,6 +1,6 @@
-# Dataset 4C
+# Dataset 5C
 
-The data set consists of 6700 RGB scale x-ray images, divided in 5 classes. There are 4690 training images, 1005 validation images and 1005 test images. (70% for training, 15% for validation and 15% for testing)
+The dataset consists of 6700 RGB scale x-ray images, divided in 5 classes. There are 4690 training images, 1005 validation images and 1005 test images. (70% for training, 15% for validation and 15% for testing)
 
 The images are getting from:
 
@@ -62,3 +62,13 @@ You can download the dataset in path format at the following link:
 
 You can download the dataset in .zip format at the following link:
 
+    https://drive.google.com/file/d/13dwmLxA6680KT0Dxcc_yPWSRQxE0G5zb/view?usp=sharing
+
+## Postscript:
+
+Oversampling was used in class:
+    
+    Cardiomegaly
+    Covid-19 in the Pneumonia & Covid-19 Class 
+    
+The rescaling was done under the cubic interpolation method.
