@@ -48,21 +48,21 @@ Size:
 
 You can find an example of implementation in the following link: 
     
-    https://github.com/Serbeld/Dataset5C/blob/master/Data_5C.ipynb
+https://github.com/Serbeld/Dataset5C/blob/master/Data_5C.ipynb
 
 # How to download it
 
 You can download the dataset in .hdf5 format at the following link:
 
-    https://drive.google.com/file/d/1oPF0Pl8HhUoKt5psaPmMi5MbL9t0Rtf8/view?usp=sharing
+https://drive.google.com/file/d/1oPF0Pl8HhUoKt5psaPmMi5MbL9t0Rtf8/view?usp=sharing
 
 You can download the dataset in path format at the following link:
 
-    https://drive.google.com/drive/folders/1ktcROowKW7kOgr3up9hW71KVCeJFRVZ6?usp=sharing
+https://drive.google.com/drive/folders/1ktcROowKW7kOgr3up9hW71KVCeJFRVZ6?usp=sharing
 
 You can download the dataset in .zip format at the following link:
 
-    https://drive.google.com/file/d/13dwmLxA6680KT0Dxcc_yPWSRQxE0G5zb/view?usp=sharing
+https://drive.google.com/file/d/13dwmLxA6680KT0Dxcc_yPWSRQxE0G5zb/view?usp=sharing
 
 ## Postscript:
 
